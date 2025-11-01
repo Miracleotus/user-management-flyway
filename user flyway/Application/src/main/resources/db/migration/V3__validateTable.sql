@@ -1,0 +1,1 @@
+ALTER TABLE user_registration MODIFY mobile VARCHAR(11);
